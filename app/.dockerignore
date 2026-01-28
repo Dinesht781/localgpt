@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments (never copy!)
+.venv/
+venv/
+env/
+
+# Git
+.git/
+.gitignore
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Unused / backup files
+*.bak
+*.old
+*.tmp
+
+# Local config files (if any)
+.env
+.env.*

@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Allow only what compose needs
+!app/
+!ui/
+!compose.yaml
+!README.md
+!LICENSE
